@@ -20,7 +20,7 @@ public class Hashing {
 
         int ans = sc.nextInt();
 
-        System.out.println(hash[ans]);
+        
 
         sc.close();
 
