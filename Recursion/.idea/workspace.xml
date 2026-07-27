@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31509fc-e425-4455-965b-02ba1db0df86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenerateBinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,22 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "abhishekj665"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abhishekj665&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/abhishekj665/Classroom_DSA.git",
-    "accountId": "08420326-0027-48dc-9402-c95c09cac328"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abhishekj665/Classroom_DSA.git&quot;,
+    &quot;accountId&quot;: &quot;08420326-0027-48dc-9402-c95c09cac328&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3GyXRniKfMNEHa8pbd10mh5DAkW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,9 +50,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GenerateBinaryString.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.Print.executor": "Run",
     "Application.PrintSum.executor": "Run",
+    "Application.ReverseStack.executor": "Run",
     "Application.RotateByK.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,7 +63,14 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MissingNumber">
+  <component name="RunManager" selected="Application.GenerateBinaryString">
+    <configuration name="GenerateBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateBinaryString" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MissingNumber" />
       <module name="Recursion" />
@@ -75,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintSum" />
+    <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseStack" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,10 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateBinaryString" />
+        <item itemvalue="Application.ReverseStack" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.RotateByK" />
         <item itemvalue="Application.Print" />
-        <item itemvalue="Application.PrintSum" />
       </list>
     </recent_temporary>
   </component>
